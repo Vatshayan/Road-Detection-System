@@ -30,3 +30,5 @@ Gmail: vatshayan007@gmail.com
  #open_source 
  
  #free_explanation
+ 
+ If this helped you may help me as :) <p><a href="https://www.buymeacoffee.com/Vatshayan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandrikadeb7" /></a></p>
