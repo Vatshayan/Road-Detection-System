@@ -12,23 +12,3 @@ Programming : Python
 ![lane](https://user-images.githubusercontent.com/28294942/137758174-63d7c31d-b9f9-4c95-8295-559cf0ab2593.jpeg)
 
 
-I have Updated Code for Indian Roads(Rural) Detection System. If you want then mail [vatshayan007@gmail.com] me 
-## Hi there, 
-
-If you need PPT, Research Paper, Project Code and Report of this Project Mail me.
-
-If you need any help regarding College project contact me. #Free_Discussion
-
-### Contact me:
-
-WhatsApp: +91 9310631437 (Helping 24*7)
-
-Gmail: vatshayan007@gmail.com
-
- #Free_Discussion 
- 
- #open_source 
- 
- #free_explanation
- 
- If this helped you may help me as :) <p><a href="https://www.buymeacoffee.com/Vatshayan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chandrikadeb7" /></a></p>
