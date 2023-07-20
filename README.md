@@ -13,6 +13,9 @@ Programming : Python
 
 
 I have Updated Code for Indian Roads(Rural) Detection System. If you want then mail [vatshayan007@gmail.com] me 
+
+Note : Just download Code and run on your IDE 
+
 ## Hi there, 
 
 If you need PPT, Research Paper, Project Code and Report of this Project Mail me.
